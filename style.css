@@ -40,10 +40,10 @@ body {
 /* Profile Card */
 .profile-card, .link-card {
     background-color: #1f1f1f;
-    padding: 20px;
-    margin: 10px;
+    padding: 40px;
+    margin: 30px;
     width: 80%;
-    border-radius: 10px;
+    border-radius: 30px;
     text-align: left;
     display: flex;
     align-items: center;
